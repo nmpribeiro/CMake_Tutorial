@@ -1,5 +1,5 @@
 #!/bin/bash
 
 pushd build
-./app
+./app/app
 popd
