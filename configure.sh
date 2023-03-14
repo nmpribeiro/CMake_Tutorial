@@ -2,6 +2,6 @@
 
 mkdir -p build
 pushd build
-cmake ..
+cmake -DGLFW_BUILD_DOCS=OFF ..
 popd
 

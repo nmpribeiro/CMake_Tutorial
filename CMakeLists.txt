@@ -4,4 +4,7 @@ project(app)
 
 # Add libraries here
 add_subdirectory(libs)
+add_subdirectory(external)
+
+# App
 add_subdirectory(app)
